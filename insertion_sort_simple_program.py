@@ -18,7 +18,7 @@ def insertionSort(arr):
 
 
 # Driver code to test above
-arr = [12, 11, 13, 5, 6]
+arr = [4, 3, 2, 10, 12, 1, 5, 6]
 insertionSort(arr)
 for i in range(len(arr)):
     print("% d" % arr[i])
